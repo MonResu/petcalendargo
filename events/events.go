@@ -7,7 +7,7 @@ import (
 
 	"github.com/araddon/dateparse"
 	"github.com/google/uuid"
-	"github.com/monresu/app/reminder"
+	"github.com/MonResu/petcalendargo/reminder"
 )
 
 func getNextID() string {

@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/monresu/app/errorsApp"
-	"github.com/monresu/app/events"
-	"github.com/monresu/app/storage"
+	"github.com/MonResu/petcalendargo/errorsApp"
+	"github.com/MonResu/petcalendargo/events"
+	"github.com/MonResu/petcalendargo/storage"
 )
 
 type Calendar struct {

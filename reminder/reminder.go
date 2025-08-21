@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/monresu/app/errorsApp"
+	"github.com/MonResu/petcalendargo/errorsApp"
 )
 
 type Reminder struct {

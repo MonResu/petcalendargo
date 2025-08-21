@@ -8,9 +8,9 @@ import (
 
 	"github.com/c-bata/go-prompt"
 	"github.com/google/shlex"
-	"github.com/monresu/app/calendar"
-	"github.com/monresu/app/events"
-	"github.com/monresu/app/logger"
+	"github.com/MonResu/petcalendargo/calendar"
+	"github.com/MonResu/petcalendargo/events"
+	"github.com/MonResu/petcalendargo/logger"
 )
 
 func (c *Cmd) executor(input string) {

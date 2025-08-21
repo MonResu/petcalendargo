@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/monresu/app/calendar"
-	"github.com/monresu/app/cmd"
-	"github.com/monresu/app/logger"
-	"github.com/monresu/app/storage"
+	"github.com/MonResu/petcalendargo/calendar"
+	"github.com/MonResu/petcalendargo/cmd"
+	"github.com/MonResu/petcalendargo/logger"
+	"github.com/MonResu/petcalendargo/storage"
 )
 
 func Add(a int, b int) int {
